@@ -1,0 +1,1425 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Conexi - Online Taxi Booking Service",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Footer",
+            "screenshot": "screenshots\/form-footer.jpg",
+            "source": "templates\/form-footer.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/form-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Testimonial Block 01 for Page Home 01",
+            "screenshot": "screenshots\/slider-testimonial-block-01-for-page-home-01.jpg",
+            "source": "templates\/slider-testimonial-block-01-for-page-home-01.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/slider-testimonial-block-01-for-page-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Car Block for Page Home 01",
+            "screenshot": "screenshots\/tab-car-block-for-page-home-01.jpg",
+            "source": "templates\/tab-car-block-for-page-home-01.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/tab-car-block-for-page-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Booknow Home 01",
+            "screenshot": "screenshots\/form-booknow-home-01.jpg",
+            "source": "templates\/form-booknow-home-01.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/form-booknow-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Booknow Home 02",
+            "screenshot": "screenshots\/form-booknow-home-02.jpg",
+            "source": "templates\/form-booknow-home-02.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/form-booknow-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Booknow For Page Book A Ride",
+            "screenshot": "screenshots\/form-booknow-for-page-book-a-ride.jpg",
+            "source": "templates\/form-booknow-for-page-book-a-ride.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/form-booknow-for-page-book-a-ride\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Car Block for Page Our Taxis",
+            "screenshot": "screenshots\/tab-car-block-for-page-our-taxis.jpg",
+            "source": "templates\/tab-car-block-for-page-our-taxis.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/tab-car-block-for-page-our-taxis\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Message For Page Contact",
+            "screenshot": "screenshots\/form-message-for-page-contact.jpg",
+            "source": "templates\/form-message-for-page-contact.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/form-message-for-page-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 01",
+            "screenshot": "screenshots\/header-style-01.jpg",
+            "source": "templates\/header-style-01.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/header-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 02",
+            "screenshot": "screenshots\/header-style-02.jpg",
+            "source": "templates\/header-style-02.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/header-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Taxis",
+            "screenshot": "screenshots\/our-taxis.jpg",
+            "source": "templates\/our-taxis.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/our-taxis\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Drivers",
+            "screenshot": "screenshots\/our-drivers.jpg",
+            "source": "templates\/our-drivers.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/our-drivers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Book A Ride",
+            "screenshot": "screenshots\/book-a-ride.jpg",
+            "source": "templates\/book-a-ride.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/book-a-ride\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Posts",
+            "screenshot": "screenshots\/blog-posts.jpg",
+            "source": "templates\/blog-posts.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/blog-posts\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/surielementor.com\/conexikit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.7.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.0.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.9.6",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "img_testimonial_Home01-GJXPAYL.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img_testimonial_Home01-GJXPAYL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-testimonial-block-01-for-page-home-01.json",
+                    "name": "Slider Testimonial Block 01 for Page Home 01"
+                }
+            ],
+            "filesize": 8807,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GJXPAYL"
+        },
+        {
+            "filename": "car1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/car1.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-home-01.json",
+                    "name": "Tab Car Block for Page Home 01"
+                },
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 50589,
+            "dimensions": [
+                293,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-taxi-4.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/icon-taxi-4.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-home-01.json",
+                    "name": "Tab Car Block for Page Home 01"
+                },
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 2292,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "car2.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/car2.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-home-01.json",
+                    "name": "Tab Car Block for Page Home 01"
+                },
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 57722,
+            "dimensions": [
+                288,
+                133
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-taxi-5.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/icon-taxi-5.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-home-01.json",
+                    "name": "Tab Car Block for Page Home 01"
+                },
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 2790,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "car3.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/car3.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-home-01.json",
+                    "name": "Tab Car Block for Page Home 01"
+                },
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 42109,
+            "dimensions": [
+                233,
+                127
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-taxi-6.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/icon-taxi-6.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-home-01.json",
+                    "name": "Tab Car Block for Page Home 01"
+                },
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 2519,
+            "dimensions": [
+                58,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-car-3.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img-car-3.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 40283,
+            "dimensions": [
+                244,
+                134
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-taxi-1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/icon-taxi-1.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 1853,
+            "dimensions": [
+                64,
+                24
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-car-4.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img-car-4.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 42306,
+            "dimensions": [
+                276,
+                114
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-taxi-2.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/icon-taxi-2.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 948,
+            "dimensions": [
+                64,
+                26
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-car-5.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img-car-5.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 40781,
+            "dimensions": [
+                256,
+                106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-taxi-3.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/icon-taxi-3.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-car-block-for-page-our-taxis.json",
+                    "name": "Tab Car Block for Page Our Taxis"
+                }
+            ],
+            "filesize": 2260,
+            "dimensions": [
+                54,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "conexi.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/conexi.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                },
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header Style 02"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3622,
+            "dimensions": [
+                162,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img-boxes.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/img-boxes-800x16.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 787,
+            "dimensions": [
+                1894,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_bg_Footer-4ECYMRE.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img_bg_Footer-4ECYMRE-800x278.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 368474,
+            "dimensions": [
+                1894,
+                658
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ECYMRE"
+        },
+        {
+            "filename": "img_slide_Home01-H3H9EDH.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/img_slide_Home01-H3H9EDH-800x419.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 489994,
+            "dimensions": [
+                1894,
+                993
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H3H9EDH"
+        },
+        {
+            "filename": "banner-2.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/banner-2-800x419.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 201939,
+            "dimensions": [
+                1894,
+                993
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/taxi-403179772"
+        },
+        {
+            "filename": "img_welcome_Home01-4D65FYU.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/img_welcome_Home01-4D65FYU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 87981,
+            "dimensions": [
+                540,
+                638
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4D65FYU"
+        },
+        {
+            "filename": "bg-video.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/bg-video.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 53566,
+            "dimensions": [
+                270,
+                238
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/photo\/yellow-taxi-car-roof-sign-at-night-taxi-car-on-the-street-at-night-gm905588010-249698247"
+        },
+        {
+            "filename": "counter1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/counter1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3808,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "counter2.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/counter2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4031,
+            "dimensions": [
+                72,
+                54
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "counter3.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/counter3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3741,
+            "dimensions": [
+                62,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "counter4.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/counter4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3585,
+            "dimensions": [
+                65,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-box.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/bg-box.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 43782,
+            "dimensions": [
+                1894,
+                366
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-partner-1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/logo-partner-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3390,
+            "dimensions": [
+                169,
+                42
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-partner-2.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/logo-partner-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3390,
+            "dimensions": [
+                169,
+                42
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_bg_benefit_Home-01-45KAUTS-e1667966736315.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/img_bg_benefit_Home-01-45KAUTS-e1667966736315-800x332.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 147692,
+            "dimensions": [
+                1894,
+                786
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-45KAUTS"
+        },
+        {
+            "filename": "913402.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/913402.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1909,
+            "dimensions": [
+                50,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "1464628.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/1464628.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2372,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "1076765.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/1076765.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1102,
+            "dimensions": [
+                42,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "car4.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/car4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3080,
+            "dimensions": [
+                64,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-testimonial.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/bg-testimonial-800x325.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 196119,
+            "dimensions": [
+                1894,
+                770
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/taxi-car-lisbon-selective-focus-251712082"
+        },
+        {
+            "filename": "bg3home1.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/09\/bg3home1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-taxis.json",
+                    "name": "Our Taxis"
+                },
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 49595,
+            "dimensions": [
+                1894,
+                589
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_slide_Home02-BDDZQ9X.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_slide_Home02-BDDZQ9X-800x373.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 475194,
+            "dimensions": [
+                1894,
+                882
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BDDZQ9X"
+        },
+        {
+            "filename": "bg-booking.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/bg-booking-800x514.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 32926,
+            "dimensions": [
+                1894,
+                1217
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_Looking_Home02-E7X6C26.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_Looking_Home02-E7X6C26-800x586.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 215621,
+            "dimensions": [
+                1000,
+                732
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7X6C26"
+        },
+        {
+            "filename": "img-benefit-1.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img-benefit-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 55807,
+            "dimensions": [
+                370,
+                275
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/photo\/texting-in-the-city-streets-gm513392889-47828828"
+        },
+        {
+            "filename": "img_benefits_Home02-4D65FYU.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_benefits_Home02-4D65FYU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 115184,
+            "dimensions": [
+                740,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4D65FYU"
+        },
+        {
+            "filename": "img_benefits_Home02-H3H9EDH.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_benefits_Home02-H3H9EDH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 129352,
+            "dimensions": [
+                740,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H3H9EDH"
+        },
+        {
+            "filename": "img-asset-1.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img-asset-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 56118,
+            "dimensions": [
+                441,
+                421
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "apple-app.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/apple-app.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 10900,
+            "dimensions": [
+                255,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ch-play-app.png",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/ch-play-app.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 7384,
+            "dimensions": [
+                255,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_slide_Home01-H3H9EDH.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_slide_Home01-H3H9EDH-800x419.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 489994,
+            "dimensions": [
+                1894,
+                993
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H3H9EDH"
+        },
+        {
+            "filename": "img_team_Home02-UGLS49B.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_team_Home02-UGLS49B.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 122420,
+            "dimensions": [
+                740,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UGLS49B"
+        },
+        {
+            "filename": "img_team_Home02-THV8DCB.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_team_Home02-THV8DCB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 139505,
+            "dimensions": [
+                740,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-THV8DCB"
+        },
+        {
+            "filename": "img_team_Home02-ZD4FW97.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_team_Home02-ZD4FW97.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 156242,
+            "dimensions": [
+                740,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZD4FW97"
+        },
+        {
+            "filename": "bg-inner-page-2.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/bg-inner-page-2-800x234.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-taxis.json",
+                    "name": "Our Taxis"
+                },
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                },
+                {
+                    "source": "templates\/book-a-ride.json",
+                    "name": "Book A Ride"
+                },
+                {
+                    "source": "templates\/blog-posts.json",
+                    "name": "Blog Posts"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 399059,
+            "dimensions": [
+                1894,
+                553
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/taxi-403179772"
+        },
+        {
+            "filename": "img_About-DRR3PHN-e1667960084267.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img_About-DRR3PHN-e1667960084267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 69714,
+            "dimensions": [
+                540,
+                549
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DRR3PHN"
+        },
+        {
+            "filename": "img-about-5.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/10\/img-about-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 155372,
+            "dimensions": [
+                540,
+                489
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/photo\/yellow-taxi-car-roof-sign-at-night-taxi-car-on-the-street-at-night-gm905588010-249698247"
+        },
+        {
+            "filename": "img_Team-BGWF85F.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img_Team-BGWF85F.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 121652,
+            "dimensions": [
+                740,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BGWF85F"
+        },
+        {
+            "filename": "img_Team-DRR3PHN.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img_Team-DRR3PHN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 255267,
+            "dimensions": [
+                740,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DRR3PHN"
+        },
+        {
+            "filename": "img_Team-E9KCUXM.jpg",
+            "thumbnail_url": "https:\/\/surielementor.com\/conexikit\/wp-content\/uploads\/2022\/11\/img_Team-E9KCUXM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-drivers.json",
+                    "name": "Our Drivers"
+                }
+            ],
+            "filesize": 120346,
+            "dimensions": [
+                740,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E9KCUXM"
+        }
+    ]
+}

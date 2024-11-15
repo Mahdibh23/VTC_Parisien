@@ -1,0 +1,14 @@
+2023-01-20T13:06:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\bdtaxi\wp-includes\Requests\Transport\cURL.php à la ligne 484
+
+2023-01-20T13:09:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\bdtaxi\wp-includes\Requests\Transport\cURL.php à la ligne 484
+
+2023-01-20T23:23:03+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\xampp\htdocs\bdtaxi\wp-content\plugins\elementor-pro\modules\assets-manager\asset-types\fonts\typekit-fonts.php:240
+Stack trace:
+#0 C:\xampp\htdocs\bdtaxi\wp-content\plugins\elementor-pro\modules\assets-manager\asset-types\fonts\typekit-fonts.php(240): count(false)
+#1 C:\xampp\htdocs\bdtaxi\wp-includes\class-wp-hook.php(308): ElementorPro\Modules\AssetsManager\AssetTypes\Fonts\Typekit_Fonts->integrations_admin_ajax_handler('')
+#2 C:\xampp\htdocs\bdtaxi\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\bdtaxi\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\bdtaxi\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#5 {main}
+  thrown dans C:\xampp\htdocs\bdtaxi\wp-content\plugins\elementor-pro\modules\assets-manager\asset-types\fonts\typekit-fonts.php à la ligne 240
+
